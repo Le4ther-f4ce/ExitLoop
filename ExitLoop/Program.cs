@@ -17,7 +17,7 @@ namespace ExitLoop
                 }
                 else
                 {
-                    Console.WriteLine($"Вы ввели - \"{userInput}\", пожалуйста введите exit");
+                    Console.WriteLine($"Вы ввели - \"{userInput}\", пожалуйста, введите exit для выхода из программы.");
                 }
             }
         }
